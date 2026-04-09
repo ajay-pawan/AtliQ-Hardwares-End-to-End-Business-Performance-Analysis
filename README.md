@@ -4,7 +4,8 @@
 
 # 🟣 AtliQ Hardwares – End-to-End Business Performance Analysis
 
-<img width="350" height="175" alt="image" src="https://github.com/user-attachments/assets/883bd56c-099f-475f-a8ea-3fd93194aa8e" />
+<img width="2000" height="1334" alt="image" src="https://github.com/user-attachments/assets/b0a84953-8e8d-4f9c-a983-6fe041f29831" />
+
 
 
 ## 🔷 Objective
