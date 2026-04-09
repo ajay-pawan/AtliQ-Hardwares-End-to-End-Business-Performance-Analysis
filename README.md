@@ -195,4 +195,72 @@ To evaluate overall business performance by analyzing **sales growth, customer c
 
 > AtliQ Hardwares has achieved significant revenue growth; however, the analysis highlights key challenges in profitability, customer concentration, and target alignment. Long-term success will depend on improving cost efficiency, optimizing the product portfolio, and strategically expanding high-margin and high-control channels.
 
+---
+
+# 🟣 Tools & Methodology (Project Execution Approach)
+
+## 🔷 Tools Used
+
+* **Microsoft Excel**
+
+  * Power Query (Data Transformation / ETL)
+  * Power Pivot (Data Modeling)
+  * DAX (Measure Creation)
+  * Pivot Tables (Analysis & Reporting)
+
+---
+
+## 🔷 Data Processing & Analysis Workflow
+
+* Data was sourced from multiple **CSV files** and loaded into Excel for analysis.
+
+* Initial step involved **understanding the dataset structure**, including tables, relationships, and key business metrics.
+
+* Business requirements were defined to focus the analysis on:
+
+  * Sales performance
+  * Product evaluation
+  * Profitability
+
+---
+
+## 🔷 Data Transformation (ETL)
+
+* Used **Power Query** to perform ETL operations:
+
+  * Data cleaning (handling missing values, formatting)
+  * Data transformation and structuring
+  * Combining multiple datasets into a unified format
+
+---
+
+## 🔷 Data Modeling
+
+* Built a **data model using Power Pivot** by:
+
+  * Establishing relationships between fact and dimension tables
+  * Creating a structured schema for efficient analysis
+
+---
+
+## 🔷 Measure Creation (DAX)
+
+* Developed key business measures using **DAX**, such as:
+
+  * Net Sales
+  * Cost of Goods Sold (COGS)
+  * Gross Margin and Gross Margin %
+  * Year-over-Year (YoY) growth
+
+---
+
+## 🔷 Analysis & Reporting
+
+* Performed analysis using **Pivot Tables** to:
+
+  * Evaluate performance across customers, markets, and products
+  * Identify trends, patterns, and key insights
+  * Support business decision-making
+
+
 
