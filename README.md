@@ -14,43 +14,44 @@ To evaluate overall business performance by analyzing **sales growth, customer c
 
 # 🟢 1. Sales Analytics
 
-## 🔹 1.1 Customer Performance
+# 🔹 1. Customer Performance
 
-* Total Net Sales reached **883M**, with a YoY growth of **204.5%**, increasing from **196.7M (2020) to 598.9M (2021)**. 
+* Total Net Sales reached **883M**, with a strong YoY growth of **204.5%**, increasing from **196.7M in 2020 to 598.9M in 2021**.
 
-* Revenue distribution is **highly concentrated**, where the top 3 customers contribute approximately **34% of total revenue**, while the remaining customers contribute **66%**.
+* Revenue distribution is **highly concentrated**, where the top 3 customers contribute nearly **34% of total sales**, while the remaining customers contribute **66%**, indicating partial dependency on key accounts.
 
-* This indicates a **partial dependency on key customers**, which ensures strong revenue generation but exposes the business to concentration risk.
+* This concentration ensures strong revenue generation but also introduces **risk if key customers decline**, highlighting the need for a balanced customer portfolio.
 
-* At the same time, the contribution from a broader customer base reflects **diversification**, supporting scalability.
-
----
-
-## 🔹 1.2 Channel Strategy (Owned vs External Customers)
-
-* Company-owned channels such as **AtliQ e Store** and **AtliQ Exclusive** are among the top contributors to total revenue.
-
-* These channels provide **greater control over pricing, customer experience, and margins**, compared to third-party customers.
-
-👉 **Implication:**
-
-* Expanding owned channels can improve **profitability and control**
-* Third-party customers remain critical for **market reach and distribution scale**
+* At the same time, the contribution from a broad set of customers reflects a **diversified customer base**, supporting long-term scalability.
 
 ---
 
-## 🔹 1.3 Market Performance
+### 🟣 Strategic Insight (Customer Channels)
 
-* Despite strong sales growth, the business recorded an overall **target shortfall of -54.9M**. 
+* Company-owned channels such as **AtliQ e Store** and **AtliQ Exclusive** are among the **top-performing contributors** to total revenue.
 
-* Several markets are operating **close to target**, indicating stable performance, while the majority still show a **gap between actual and expected sales**.
+* As owned distribution channels, they provide **greater control over pricing, customer experience, and margins** compared to third-party customers.
 
-* High-revenue markets such as **USA, India, Canada, and the United Kingdom** continue to underperform relative to their targets.
+* This creates an opportunity to **expand company-owned stores across high-performing markets**, improving profitability and reducing dependency on external partners.
 
-👉 **Implication:**
+* Meanwhile, third-party customers should continue to be leveraged for **market expansion and reach**, ensuring a balanced and scalable distribution strategy.
 
-* There is a mismatch between **target setting and execution capability**
-* Growth is evident, but **performance expectations may not be aligned with market realities**
+---
+
+# 🔹 2. Market Performance
+
+* Despite strong revenue growth, the business is **not meeting its target expectations**, with an overall shortfall of approximately **-54.9M**.
+
+* Several markets are performing **close to their targets with minimal deviation**, indicating stable performance in select regions.
+
+* However, most markets continue to show a **gap between actual sales and targets**, suggesting challenges in execution or target planning.
+
+* Key markets such as **USA, India, Canada, and the United Kingdom**, although contributing significant revenue, are still **underperforming against targets**.
+
+* This indicates that while demand is increasing globally, there is a need to **optimize market-level strategies and improve alignment between targets and execution**.
+
+---
+
 
 ---
 
